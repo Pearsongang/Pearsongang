@@ -1,4 +1,4 @@
-function generateDynamicKey(inName){
-   let secretKey = "WPGlobal";
-   return inName + secretKey;
+function genDynKey(inName){
+   let sKey1 = "WPGlobal";
+   return inName + sKey1;
 }
