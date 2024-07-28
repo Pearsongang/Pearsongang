@@ -3,8 +3,3 @@ function test(){
 }
 
 
-function test2(){
-  let result = ("hello");
-  return result;
-}
-
