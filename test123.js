@@ -2,7 +2,7 @@ function test(){
   alert("test 123");
 }
 
-function test(){
+function test2(){
   var r1 ="hello";
   return r1;
 }
